@@ -13,7 +13,7 @@ tinggal tulis aja go get namamoduleya
 kita udah bikin module untuk di pelajaran 64 yaitu go-say-hello
 tinggal panggil aja go get github.com/alakmal12/go-say-hello
 
-nanti decara otomatis golang akan mendownoad librarynya yg versi terbary
+nanti decara otomatis golang akan mendownoad librarynya yg versi terbaru
 dan menambahkan sesuatu di file go.mod
 
 
@@ -27,6 +27,7 @@ namamodulenya.namamethod atau nama function atau nama struct
 func main(){
 
 	// panggil method sayHello yg udah dibuat dri libraary go modules yg tadi
-	fmt.Println(go_say_hello.SayHello("akmal"))
+	fmt.Println(go_say_hello.SayHello("akmal")) // HASILNYA hello world akmal
+	fmt.Println(go_say_hello.SayHello2())
 
 }

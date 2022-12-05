@@ -1,0 +1,6 @@
+kalau di aplikainya penge pakai odule di versi terbaru
+
+ebenernya tinggal ubah nomor tagnya ke versi terbaru
+
+lalu tinggal ketikan di terminal go get.
+maka golang akan otomatis melakukan update

@@ -1,0 +1,7 @@
+untuk melakukan upgrade module cukup mudah
+
+tinggal git tag namaversi upgrade
+
+lalu git push origin namaversiupgrade
+
+push ke modulesnya 
