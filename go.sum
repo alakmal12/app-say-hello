@@ -2,3 +2,5 @@ github.com/alakmal12/go-say-hello v1.0.0 h1:ZKVhdhAqfL7PR1SoQYZc2cgUDGfYRu0mrf4k
 github.com/alakmal12/go-say-hello v1.0.0/go.mod h1:6HsEpnhoRx3Lh7Rjj1weWW15CtKx4u7hLMVJd2LnVHU=
 github.com/alakmal12/go-say-hello v1.5.0 h1:tIY7KdnB6bJJ8kCM/Eg+hgmhz2OSvWhe+HJJro+eqh0=
 github.com/alakmal12/go-say-hello v1.5.0/go.mod h1:6HsEpnhoRx3Lh7Rjj1weWW15CtKx4u7hLMVJd2LnVHU=
+github.com/alakmal12/go-say-hello/v2 v2.1.0 h1:622P2ZQp97AEyuldxR0Em8EGW7wpgL/hdgtUoEZlFxo=
+github.com/alakmal12/go-say-hello/v2 v2.1.0/go.mod h1:KInwy2LMiSkoBeymwRVVYS4r1wgJXC0O6cSP5ALklfI=
